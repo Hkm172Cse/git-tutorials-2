@@ -3,6 +3,7 @@ public class hellow2{
         display("azizul hakim");
 
         System.out.println("Visual Studio Code is Difficult Awosome");
+        System.out.println("This is Check push");
     }
 
     public static void display(String name){
