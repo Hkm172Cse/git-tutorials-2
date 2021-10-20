@@ -10,5 +10,9 @@ public class hellow2{
         System.out.println("my name is "+ name);
     }
 
+    public statci void sqr(int x){
+        return x*x;
+    }
+
 
 }
