@@ -8,5 +8,9 @@ public class hellow2{
         System.out.println("this is a second line on Branch_A");
       }
 
+      public static void message(){
+          System.out.println("This is a new Branch");
+      }
+
    }
 
