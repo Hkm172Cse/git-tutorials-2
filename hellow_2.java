@@ -3,7 +3,4 @@ public class hellow2{
         display("azizul hakim");
         System.out.println("Now i am on Master Branch");
     }
-
-    
-
 }
